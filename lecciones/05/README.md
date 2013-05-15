@@ -59,7 +59,7 @@ los parámetros a utilizar son:
 * Nombre del campo en la tabla relación donde se almacena el ID del objeto actual.
 * Nombre del campo en la tabla relación donde se almacena el ID del objeto objetivo.
 
-Por convención el nombre del campo se le adiciona el sufijo **_ids**
+Por convención el nombre del campo se le adiciona el sufijo **_id**
 
 ## Criterios de búsqueda
 
